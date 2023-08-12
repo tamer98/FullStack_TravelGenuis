@@ -3,7 +3,6 @@
 
 
 
-> The project was built in Java 
 
 
 ## `Description `
