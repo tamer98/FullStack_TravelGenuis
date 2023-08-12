@@ -1,0 +1,12 @@
+.budget-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+    height: 100vh; /* Adjust as needed */
+  }
+  
+  .heading {
+    text-align: center;
+  }
+  
