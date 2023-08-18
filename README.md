@@ -15,6 +15,8 @@ The purpose of this software project is to develop a super app for travel that p
 
 https://github.com/tamer98/FullStack_TravelGenuis/assets/72464761/8879f6d1-07da-4f59-aba7-e5369809adb7 
 
+## `About the process` 
+
 ## `Technologies and Tools`
 
 - ### `Spring Boot`
