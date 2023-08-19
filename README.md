@@ -1,6 +1,12 @@
+### `Full Stack team project dealing with travel super app, working in sprints`
+- Front End Development - A web application is developed using React.js, following architecture that was designed before development began and divided into work phases. The system is implemented using the React.js library for building user interfaces.
+
+- Back End Developer - The servers were developed using Spring Boot, and communication between the servers is done through REST APIs that implement CRUD operations. The servers use Spring Data MongoDB to interact with MongoDB databases, and Spring Data MongoDB provides object modeling for the data stored in the databases.
+<br />
+
+
 
 <img width="1139" alt="Screenshot 2023-08-13 at 1 56 53" src="https://github.com/tamer98/FullStack_TravelGenuis/assets/72464761/ecc8bd67-04c3-4b66-9d40-3e2e4900b1b1"><br />
-
 
 
 
@@ -10,12 +16,44 @@
 The purpose of this software project is to develop a super app for travel that provides users with a comprehensive platform for planning and managing all aspects of their travel experience and budget. The app aims to simplify the travel planning process by integrating various services and information into a single, user-friendly platform.<br />
 
 
+
 ## `How It Works` 
 
 
 https://github.com/tamer98/FullStack_TravelGenuis/assets/72464761/8879f6d1-07da-4f59-aba7-e5369809adb7 
 
-## `About the process` 
+## `Project Requirements Document` 
+
+1.1 Purpose of System:
+
+- The purpose of the super app for travel is to provide users with a one-stop-shop for all their travel needs. The app will enable users to search for and book flights, hotels, and other travel services, as well as provide them with travel information and recommendations. The ultimate goal of the app is to make travel planning easier, more convenient, and more enjoyable for users.
+
+   1.2 Scope of System:
+
+The super app for travel will include the following features and services:
+- Flight booking: This mini-app would allow users to search for and book flights, utilizing
+the Booking and Destination objects.
+- Hotel booking: This mini-app would allow users to search for and book hotels, utilizing
+the Booking and Destination objects.
+- Budget planner: This mini-app would help users plan and manage their travel budget,
+utilizing the Booking and Payment objects.
+
+2. Actors and Goals
+- Travelers: The primary actor of the system, travelers will use the app to search and book flights, hotels and manage their budget.
+- Travel service providers: These actors will provide the travel services that are available on the app, such as airlines, hotels. Their goal is to reach a wider audience of potential customers through the app.
+- Advertisers: These actors will use the app to advertise their products or services to users, based on their travel preferences and interests. Their goal is to increase brand awareness and drive sales.
+- App administrators: These actors will be responsible for maintaining the app, managing user data and transactions, and ensuring the       security and privacy of user information. Their goal is to provide a reliable and secure platform for users and travel service providers.       
+Each of these actors has a different set of goals and motivations for using the super app for travel, and the app's features and services will be designed to meet their respective needs.
+
+3. Functional Requirements
+- Order a flights from airlines suggestion list
+- Order a hotel rooms from hotels suggestion list (booking , agoda)
+
+   3.1 Use Case Diagram:
+
+<img width="931" alt="Screenshot 2023-08-19 at 18 00 21" src="https://github.com/tamer98/FullStack_TravelGenuis/assets/72464761/7d9f9280-5df1-4465-8cda-5b1ea93c65c0">
+
+
 
 ## `Technologies and Tools`
 
